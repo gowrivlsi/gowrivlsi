@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭Electronics & Communication Engineering student specializing in VLSI Design and Verification with strong interest in RTL Design and UVM-based verification.<br><br>Currently undergoing professional VLSI training at VLSI 1st, Bengaluru, gaining hands-on experience in Verilog, SystemVerilog, UVM, simulation, and digital design methodologies.<br><br>B.E. in Electronics & Communication Engineering (2021–2025) | CGPA: 8.14<br><br>Actively building and sharing projects related to RTL development, functional verification, and chip design. I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
